@@ -1,0 +1,10 @@
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\bin\Debug\WiXGeneraterSnippets.exe.config
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\bin\Debug\WiXGeneraterSnippets.exe
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\bin\Debug\WiXGeneraterSnippets.pdb
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\obj\Debug\WiXGeneraterSnippets.FrmMain.resources
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\obj\Debug\WiXGeneraterSnippets.Properties.Resources.resources
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\obj\Debug\WiXGeneraterSnippets.csproj.GenerateResource.cache
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\obj\Debug\WiXGeneraterSnippets.csproj.CoreCompileInputs.cache
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\obj\Debug\WiXGeneraterSnippets.exe
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\obj\Debug\WiXGeneraterSnippets.pdb
+D:\C#\WiXGeneraterSnippets\WiXGeneraterSnippets\obj\Debug\WiXGeneraterSnippets.csproj.AssemblyReference.cache
